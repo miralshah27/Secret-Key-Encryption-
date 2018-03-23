@@ -5,7 +5,7 @@
 Miral Shah (2014A7PS0200U)
 ---
 
-** Contents: **
+** Contents **
 
 - Overview
 
